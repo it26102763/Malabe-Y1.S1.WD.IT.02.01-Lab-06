@@ -17,7 +17,7 @@ public class IT26102763Lab6Q3 {
         while (number != -99) {
             if (number > 0) {
                 sumOfSquare = sumOfSquare + (number * number);
-                count++; // Valid numbers gana count karanawa
+                count++;
             } else {
             }
             System.out.print("Enter a number: ");
